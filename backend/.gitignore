@@ -1,0 +1,15 @@
+# backend/.gitignore
+__pycache__/
+*.py[cod]
+*.env
+.env
+*.db
+*.sqlite3
+*.log
+*.bak
+*.swp
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
